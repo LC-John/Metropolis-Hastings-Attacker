@@ -16,27 +16,17 @@ If you want to use other datasets, or your own victim classifiers or language mo
 
 ## Cite
 
-``
+```
 @inproceedings{generating2019zhang,
-
   author    = {Huangzhao Zhang and
-  
                Hao Zhou and
-               
                Ning Miao and
-               
                Lei Li},
   title     = {Generating Fluent Adversarial Examples for Natural Languages},
-  
   booktitle = {Proceedings of the 57th Conference of the Association for Computational
-  
                Linguistics, {ACL} 2019, Florence, Italy, July 28- August 2, 2019,
-               
                Volume 1: Long Papers},
-               
   pages     = {5564--5569},
-  
   year      = {2019}
-  
 }
-``
+```
